@@ -3,5 +3,9 @@ resource "aws_s3_bucket" "buckets"{
   
   tags={
    Purpose="Testing"
+   Owner="Pankaj"
+   App Support="cloud@gmail.com"
+   CC Code="16263"
+   SDO Code="16263"
   }
 }
