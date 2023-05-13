@@ -11,5 +11,6 @@ resource "aws_s3_bucket" "buckets"{
    Supervisor="krishna.singh@genpact.com"
    Hardening="enabled"
    Created="Pankaj"
+  Managed="703269910"
   }
 }
