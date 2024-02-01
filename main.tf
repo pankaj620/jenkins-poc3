@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "buckets"{
- bucket="jenkins-pieplinebucket-1728381633"
+ bucket="jenkins-pieplinebucket-17283816334"
   
   tags={
    Purpose="Testing"
@@ -7,6 +7,6 @@ resource "aws_s3_bucket" "buckets"{
    App="cloud@gmail.com"
    CC="16263"
    SDO="16263"
-   Owner="pankaj.paswan@genpact.com"
+   Owner="pankaj.paswan@adobe.com"
   }
 }
