@@ -8,5 +8,6 @@ resource "aws_s3_bucket" "buckets"{
    CC="16263"
    SDO="16263"
    Owner="pankaj.paswan@adobe.com"
+   Project: "TFE"
   }
 }
