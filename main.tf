@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "buckets"{
- bucket="jenkins-pieplinebucket-17283816334"
+ bucket=var.bucket_name
   
   tags={
    Purpose="Testing"
