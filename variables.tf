@@ -7,3 +7,5 @@ variable "tags"{
 type=map(string)
 default={"Owner": "Pankaj", "Purpose": "Testing"}
 }
+
+
